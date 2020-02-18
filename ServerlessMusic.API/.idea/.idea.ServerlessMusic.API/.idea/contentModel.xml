@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\greg\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\greg\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_ServerlessMusic.API.199885080.00" t="ExcludeRecursive" />
+    <e p="C:\Users\greg\source\repos\ServerlessAPIExample\ServerlessMusic.API" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="ServerlessMusic.API" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
+        <e p="bin\Debug\netcoreapp3.0\bin" t="ExcludeRecursive" />
+        <e p="Function1.cs" t="Include" />
+        <e p="Functions" t="Include">
+          <e p="CreateAlbum.cs" t="Include" />
+          <e p="GetAlbum.cs" t="Include" />
+        </e>
+        <e p="Helpers" t="Include">
+          <e p="Startup.cs" t="Include" />
+        </e>
+        <e p="host.json" t="Include" />
+        <e p="local.settings.json" t="Include" />
+        <e p="Models" t="Include">
+          <e p="Album.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="ServerlessMusic.API.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ServerlessMusic.API.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="ServerlessMusic.API.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
